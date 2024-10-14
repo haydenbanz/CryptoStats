@@ -1,32 +1,27 @@
-# HadesConnect 🌑 V 2.1
+# HadesCryptoStats  🌑 V 1.0
 
-![HadesConnect Logo](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/hades23vfsd.png?raw=true)
 
-[![Python - HadesConnect](https://img.shields.io/static/v1?label=Python&message=HadesConnect&color=%242A3E87&labelColor=%236A7DA8&style=for-the-badge&&logo=python)](https://github.com/haydenbanz/HadesConnect/tree/main)
-[![MIT License](https://img.shields.io/static/v1?label=License&message=MIT&color=%233DA639&labelColor=%23e3e3e3&style=for-the-badge)](https://github.com/haydenbanz/HadesConnect/blob/main/LICENSE)
+![CryptoStats Logo](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/hades23vfsd.png?raw=true)
+
+[![Python - HadesCryptoStats](https://img.shields.io/static/v1?label=Python&message=HadesCryptoStats&color=%242A3E87&labelColor=%236A7DA8&style=for-the-badge&&logo=python)](https://github.com/haydenbanz/CryptoStats/tree/main)
+[![MIT License](https://img.shields.io/static/v1?label=License&message=MIT&color=%233DA639&labelColor=%23e3e3e3&style=for-the-badge)](https://github.com/haydenbanz/CryptoStats/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/static/v1?label=Python&message=3.6%2B&color=%230078D6&labelColor=%23e3e3e3&style=for-the-badge&logo=python)](https://www.python.org/downloads/)
-[![GitHub Issues](https://img.shields.io/github/issues/haydenbanz/HadesConnect?style=for-the-badge)](https://github.com/haydenbanz/HadesConnect/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/haydenbanz/HadesConnect?style=for-the-badge)](https://github.com/haydenbanz/HadesConnect/pulls)
-[![GitHub Stars](https://img.shields.io/github/stars/haydenbanz/HadesConnect?style=for-the-badge)](https://github.com/haydenbanz/HadesConnect/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/haydenbanz/CryptoStats?style=for-the-badge)](https://github.com/haydenbanz/CryptoStats/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/haydenbanz/CryptoStats?style=for-the-badge)](https://github.com/haydenbanz/CryptoStats/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/haydenbanz/HadesCryptoStats?style=for-the-badge)](https://github.com/haydenbanz/HadesCryptoStats/stargazers)
 ![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
-[![GitHub Download](https://img.shields.io/static/v1?label=Download&message=HadesConnect&color=%242A3E87&labelColor=%236A7DA8&style=for-the-badge)](https://github.com/haydenbanz/HadesConnect/releases)
+[![GitHub Download](https://img.shields.io/static/v1?label=Download&message=CryptoStats&color=%242A3E87&labelColor=%236A7DA8&style=for-the-badge)](https://github.com/haydenbanz/CryptoStats/releases)
 
-## HadesConnect: Emergency Switch & Remote Desktop Control via Discord
+## HadesCryptoStats: Real-Time Crypto Stats Tracker
 
 ## 📖 Description
 
-HadesConnect is a powerful tool designed for emergency switching and remote desktop control through Discord. It provides users with an intuitive interface to manage and control their devices remotely, ensuring seamless connectivity and responsiveness.
-
-With HadesConnect, you can:
-- Quickly switch between different control modes.
-- Access your desktop remotely for troubleshooting or monitoring.
-- Communicate and manage your devices in real-time using Discord as a platform.
+HadesCryptoStats is a powerful tool designed to provide real-time statistics and insights into various cryptocurrencies. With a user-friendly interface and detailed analytics, HadesCryptoStats helps users track their investments and make informed decisions in the ever-changing crypto market.
 
 ### Features
-- **Emergency Switching**: Instantly switch control modes as needed.
-- **Remote Desktop Access**: Monitor and manage your devices without being physically present.
-- **User-Friendly Interface**: Designed for ease of use, even for beginners.
-- **Cross-Platform Support**: Compatible with multiple operating systems.
+- **Real-Time Updates**: Get instant updates on cryptocurrency prices and statistics.
+- **User-Friendly Interface**: Designed for ease of use, enabling quick access to key information.
+- **Cross-Platform Compatibility**: Works seamlessly on multiple operating systems.
 
 ## ⚙️ Installation
 
@@ -34,7 +29,6 @@ Follow the instructions in the [INSTALL.md](INSTALL.md) for installation on Wind
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please check the [GitHub Issues](https://github.com/haydenbanz/HadesConnect/issues) page or open a new issue.
+For issues or questions, please check the [GitHub Issues](https://github.com/haydenbanz/HadesCryptoStats/issues) page or open a new issue.
 
 ---
-
