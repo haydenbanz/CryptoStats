@@ -1,7 +1,7 @@
 # HadesCryptoStats  🌑 V 1.0
 
 
-![CryptoStats Logo](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/hades23vfsd.png?raw=true)
+![CryptoStats Logo](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/CryptoStats.png?raw=true)
 
 [![Python - HadesCryptoStats](https://img.shields.io/static/v1?label=Python&message=HadesCryptoStats&color=%242A3E87&labelColor=%236A7DA8&style=for-the-badge&&logo=python)](https://github.com/haydenbanz/CryptoStats/tree/main)
 [![MIT License](https://img.shields.io/static/v1?label=License&message=MIT&color=%233DA639&labelColor=%23e3e3e3&style=for-the-badge)](https://github.com/haydenbanz/CryptoStats/blob/main/LICENSE)
